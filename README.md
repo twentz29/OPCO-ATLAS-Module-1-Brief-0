@@ -2,27 +2,27 @@
 
 Installation : 
 
-python -m venv .venv
+    python -m venv .venv
 
 
 Activation :
 
 Windows (PowerShell) :
 
-.\.venv\Scripts\Activate.ps1
+    .\.venv\Scripts\Activate.ps1
 
 Windows (CMD) :
 
-.\.venv\Scripts\activate.bat
+    .\.venv\Scripts\activate.bat
 
 macOS / Linux :
 
-source .venv/bin/activate
+    source .venv/bin/activate
 
 
 Installation des dépendances : 
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 # Le modèle d'IA
